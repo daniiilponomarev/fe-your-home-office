@@ -1,5 +1,11 @@
 # fe-your-home-office
 
+## CloudFront URL
+https://d3qs93x8xyf37z.cloudfront.net/
+
+## S3-website URL
+http://home-office-store.s3-website-eu-west-1.amazonaws.com/
+
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
 
 - [Vite](https://vitejs.dev/) as a project bundler
